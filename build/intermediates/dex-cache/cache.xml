@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jaski\Desktop\jasiu\januszbiega\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="43f265daf1ec5638f1be4379525b59cf1d5b0f8d">
+        <dex dex="C:\Users\Jaski\Desktop\jasiu\januszbiega\android\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fdc35f4edfee79782b92a791225b4dd66a75c70f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jaski\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.2\342b830bc718dc1965c8f13fc58dc500e8bd262f\gdx-backend-android-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="342b830bc718dc1965c8f13fc58dc500e8bd262f">
+        <dex dex="C:\Users\Jaski\Desktop\jasiu\januszbiega\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.2_d58c04d4f18f83c6b90e56b83082cf037d5a146f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jaski\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.2\b78eaa90aaaf7830e6dffff587ea6e859c2787b2\gdx-box2d-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b78eaa90aaaf7830e6dffff587ea6e859c2787b2">
+        <dex dex="C:\Users\Jaski\Desktop\jasiu\januszbiega\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.2_53f84a2fb064d13152bd3b2f8a2b00239c5bfc04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jaski\Desktop\jasiu\januszbiega\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8f87edf643fdc6548572f53ed1cf6bccb7e79c19">
+        <dex dex="C:\Users\Jaski\Desktop\jasiu\januszbiega\android\build\intermediates\pre-dexed\debug\instant-run_e927a4d7c6606422c232f528e52c551c55bea2a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jaski\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.2\e641cb91bec06bc64d9ddf7a7d7062caceec73cd\gdx-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e641cb91bec06bc64d9ddf7a7d7062caceec73cd">
+        <dex dex="C:\Users\Jaski\Desktop\jasiu\januszbiega\android\build\intermediates\pre-dexed\debug\gdx-1.9.2_5c8cd89ce0d8cfb599b67e9fd3a31618a369bae7.jar" />
+    </item>
+
+</items>

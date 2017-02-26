@@ -1,0 +1,150 @@
+
+mainmenu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+creditsscreen
+  rotate: false
+  xy: 1, 281
+  size: 500, 700
+  orig: 500, 700
+  offset: 0, 0
+  index: -1
+creditsbuttonUP
+  rotate: false
+  xy: 1, 241
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+creditsbuttonDOWN
+  rotate: false
+  xy: 223, 241
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+optionsbuttonUP
+  rotate: false
+  xy: 1, 121
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+optionsbuttonDOWN
+  rotate: false
+  xy: 223, 121
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+startbuttonUP
+  rotate: false
+  xy: 1, 1
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+startbuttonDOWN
+  rotate: false
+  xy: 223, 1
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+exitbutton
+  rotate: false
+  xy: 446, 1
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+fireon
+  rotate: false
+  xy: 650, 1
+  size: 68, 69
+  size: 69, 69
+  offset: 0, 0
+  index: -1
+fireoff
+  rotate: false
+  xy: 720, 1
+  size: 68, 69
+  size: 69, 69
+  offset: 0, 0
+  index: -1
+soundbuttonon
+  rotate: false
+  xy: 518, 1
+  size: 68, 69
+  size: 69, 69
+  offset: 0, 0
+  index: -1
+soundbuttonoff
+  rotate: false
+  xy: 580, 1
+  size: 71, 69
+  size: 71, 69
+  offset: 0, 0
+  index: -1
+backbutton
+  rotate: false
+  xy: 213, 144
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+backbutton
+  rotate: false
+  xy: 446, 121
+  size: 201, 115
+  orig: 201, 115
+  offset: 0, 0
+  index: -1
+statsbutton
+  rotate: false
+  xy: 1, 212
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+nickbuttonUP
+  rotate: false
+  xy: 1, 362
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+nickbuttonDOWN
+  rotate: false
+  xy: 223, 362
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+statsbuttonUP
+  rotate: false
+  xy: 1, 483
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+statsbuttonDOWN
+  rotate: false
+  xy: 223, 483
+  size: 222, 121
+  orig: 222, 121
+  offset: 0, 0
+  index: -1
+
+mainmenu3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 479, 544
+  orig: 479, 544
+  offset: 0, 0
+  index: -1

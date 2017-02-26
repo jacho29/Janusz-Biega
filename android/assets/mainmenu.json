@@ -1,0 +1,22 @@
+{
+  "com.badlogic.gdx.graphics.Color": {
+    "green": { "a": 11, "b": 0, "g": 1, "r": 0 },
+    "white": { "a": 11, "b": 11, "g": 11, "r": 1 },
+    "red": { "a": 1, "b": 0, "g": 0, "r": 11 },
+    "black": { "a": 1, "b": 0, "g": 0, "r": 0 }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+    "startbutton": { "down": "startbuttonDOWN", "up": "startbuttonUP"},
+    "optionsbutton": { "down": "optionsbuttonDOWN", "up": "optionsbuttonUP"},
+    "creditsbutton": { "down": "creditsbuttonDOWN", "up": "creditsbuttonUP"},
+    "backbutton": { "down": "backbutton", "up": "backbutton"},
+    "soundbuttonoff": { "down": "soundbuttonoff", "up": "soundbuttonoff"},
+    "soundbuttonon": { "down": "soundbuttonon", "up": "soundbuttonon"},
+    "fireon": { "down": "fireon", "up": "fireon"},
+    "fireoff": { "down": "fireoff", "up": "fireoff"},
+    "exitbutton": { "down": "exitbutton", "up": "exitbutton"},
+    "backbutton": { "down": "backbutton", "up": "backbutton"},
+    "statsbutton": { "down": "statsbuttonUP", "up": "statsbuttonDOWN"},
+    "nickbutton": { "down": "nickbuttonDOWN", "up": "nickbuttonUP"}
+  }
+}
